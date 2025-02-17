@@ -1,6 +1,3 @@
-# Nesne-Tabanl-Proje
-2300007325 Mustafa Karaca Nesne Tabanlı Proje
-
 Proje 1 Araç Kiralama 
 
 
